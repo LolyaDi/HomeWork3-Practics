@@ -1,0 +1,7 @@
+C:\Users\ww\source\repos\ArraysPractics\ArraysPractics\bin\Debug\ArraysPractics.exe.config
+C:\Users\ww\source\repos\ArraysPractics\ArraysPractics\bin\Debug\ArraysPractics.exe
+C:\Users\ww\source\repos\ArraysPractics\ArraysPractics\bin\Debug\ArraysPractics.pdb
+C:\Users\ww\source\repos\ArraysPractics\ArraysPractics\obj\Debug\ArraysPractics.csprojResolveAssemblyReference.cache
+C:\Users\ww\source\repos\ArraysPractics\ArraysPractics\obj\Debug\ArraysPractics.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\ArraysPractics\ArraysPractics\obj\Debug\ArraysPractics.exe
+C:\Users\ww\source\repos\ArraysPractics\ArraysPractics\obj\Debug\ArraysPractics.pdb
